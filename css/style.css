@@ -926,7 +926,7 @@ footer button a{
         width: 100%;
         }
         footer button{
-            position: absolute;
+            bottom: 20px;
             right: 20px;
         }
         .ftr-1{
